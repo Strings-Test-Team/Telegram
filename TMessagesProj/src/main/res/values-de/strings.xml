@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppNameBeta">Telegram Beta Jasper</string>
     <string name="LanguageName">Deutsch</string>
     <string name="English">Englisch</string>
     <string name="LanguageNameInEnglish">German</string>
@@ -43,7 +43,7 @@
     <string name="ResetAccountStatus">Du kannst dein Konto zurücksetzen in:</string>
     <string name="ResetAccountCancelledAlert">Deine vorherigen Versuche das Konto zurückzusetzen wurden durch den aktiven Nutzer abgebrochen. Bitte in 7 Tagen erneut probieren.</string>
     <string name="ResetAccountButton">KONTO ZURÜCKSETZEN</string>
-    <string name="CancelLinkExpired">Link ist ungültig oder abgelaufen.</string>
+    <string name="CancelLinkExpired">Link ist ungültig oder abgelaufen. Jasper</string>
     <string name="CancelLinkSuccess">Löschvorgang für dein Konto %1$s wurde abgebrochen. Du kannst das Fenster nun schließen.</string>
     <string name="OtherLoginCode">Dein Anmeldecode lautet **%1$s**. Gebe ihn in der Telegram-App ein, bei der du dich anmelden möchtest.\n\nDen Code niemals weitergeben.</string>
     <!--signup view-->
